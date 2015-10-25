@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="New Game"
+        android:id="@+id/newGame"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="Validate"
+        android:id="@+id/validate"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:title="Cheat"
+        android:id="@+id/cheat"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="Intro"
+        android:id="@+id/intro"
+        app:showAsAction="ifRoom"/>
+</menu>

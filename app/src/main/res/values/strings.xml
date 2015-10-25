@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+
+    <string name="intro">
+        Intro:\n
+        1: click to flip the tile;\n
+        2: long click to set/remove flag;\n
+        3: M - Mine, F - Flag;\n
+        4: Number - the count of adjacent mines;
+    </string>
+</resources>
